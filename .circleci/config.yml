@@ -23,7 +23,7 @@ jobs:
             - "/usr/local/lib/python3.6/site-packages"
 
       # run tests!
-      - run: pytest
+      - run: python -m pytest
 
 workflows:
   version: 2
