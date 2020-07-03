@@ -5,7 +5,7 @@
 <details>
 <summary>002. Find the odd int</summary>
 
-[Codewars Link](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+#### [Codewars Link](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 
 Given an array, find the integer that appears an odd number of times.
 
@@ -15,7 +15,7 @@ There will always be only one integer that appears an odd number of times.
 <details>
 <summary>001. Replace With Alphabet Position</summary>
 
-[Codewars Link](https://www.codewars.com/kata/546f922b54af40e1e90001da)
+#### [Codewars Link](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 
 Welcome.
 
