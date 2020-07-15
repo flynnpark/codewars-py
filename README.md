@@ -6,3 +6,4 @@
 2. [(6kyu) Find the odd int](./solutions/solution_002)
 3. [(6kyu) Find The Parity Outlier](./solutions/solution_003)
 4. [(6kyu) Roman Numerals Encoder](./solutions/solution_004)
+5. [(6kyu) Create Phone Number](./solutions/solution_005)
